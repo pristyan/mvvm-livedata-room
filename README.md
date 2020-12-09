@@ -3,7 +3,7 @@
 #### Design Pattern
 >**MVVM + LiveData.**
 >
->I used MVP since 2017. But, for this project, I'm trying to use MVVM. I started to learn this design pattern since early November of this year. So, this is the first project that I use MVVM design pattern.
+>I used MVP since 2017. But, for this project, I'm trying to use MVVM. I started to learn for the implementation of this design pattern since 2 days ago. So, this is the first project that I use MVVM design pattern.
 
 
 #### Dummy Data
