@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Candi Borobudur",
+      "thumbnail": "https://www.pinterpandai.com/wp-content/uploads/2018/06/Sejarah-candi-borobudur.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Monumen Nasional",
+      "thumbnail": "https://titiknol.co.id/images/post/2016/07/titiknol_1o7_monas.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pantai Kuta",
+      "thumbnail": "https://www.kintamani.id/wp-content/uploads/Keindahan-Pantai-Kuta-Bali-yang-sanggup-menarik-ribuan-wisatawan-setiap-tahunnya.jpg"
+    }
+  ]
+}

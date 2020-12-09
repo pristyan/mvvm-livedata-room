@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "place_id": 1,
+      "url": "https://www.pinterpandai.com/wp-content/uploads/2018/06/Sejarah-candi-borobudur.jpg"
+    },
+    {
+      "id": 2,
+      "place_id": 1,
+      "url": "https://img.jakpost.net/c/2020/02/05/2020_02_05_86050_1580899321._large.jpg"
+    },
+    {
+      "id": 3,
+      "place_id": 1,
+      "url": "https://www.villaborobudurresort.com/heading/visit-to-borobudur-temple_1.jpg"
+    },
+    {
+      "id": 4,
+      "place_id": 2,
+      "url": "https://titiknol.co.id/images/post/2016/07/titiknol_1o7_monas.jpg"
+    },
+    {
+      "id": 5,
+      "place_id": 2,
+      "url": "https://backend.sas-hospitality.com//uploads/artikel/monumen_nasional.png"
+    },
+    {
+      "id": 6,
+      "place_id": 2,
+      "url": "https://i0.wp.com/www.museumjakarta.com/wp-content/uploads/2018/05/monumen-nasional-jakarta-MONAS.png?resize=600%2C399&ssl=1"
+    },
+    {
+      "id": 7,
+      "place_id": 3,
+      "url": "https://www.kintamani.id/wp-content/uploads/Keindahan-Pantai-Kuta-Bali-yang-sanggup-menarik-ribuan-wisatawan-setiap-tahunnya.jpg"
+    },
+    {
+      "id": 8,
+      "place_id": 3,
+      "url": "https://blog.tripcetera.com/id/wp-content/uploads/2020/03/leebudihart_76864081_2484833498431751_3194446755026370817_n.jpg"
+    },
+    {
+      "id": 9,
+      "place_id": 3,
+      "url": "https://www.nusabali.com/article_images/55451/desa-adat-akan-tata-ulang-pedagang-di-pantai-kuta-800-2019-07-11-102909_0.jpg"
+    }
+  ]
+}

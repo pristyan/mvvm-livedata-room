@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "email": "anya@gmail.com",
+      "name": "Anya Geraldine",
+      "phone": "+628112211000",
+      "photo": "https://cdn0-production-images-kly.akamaized.net/FSCwzpdqi-TJMhKavSJE3uhXrMI=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2832638/original/037807400_1560947825-20190619-Anya-Geraldine-1.jpg",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "isyan@gmail.com",
+      "name": "Isyana Sarasvati",
+      "phone": "+6285641000800",
+      "photo": "https://awsimages.detik.net.id/community/media/visual/2020/04/05/c8f56682-0a25-47a5-a427-cd5d045832cf_43.jpeg?w=700&q=90",
+      "password": "654321"
+    }
+  ]
+}
